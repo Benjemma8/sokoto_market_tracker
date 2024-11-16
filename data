@@ -1,0 +1,16 @@
+{
+  "vendor_id": 1,
+  "vendor_name": "Ali's Shop",
+  "items": [
+    {
+      "name": "Tomato",
+      "price": 100,
+      "quantity": 50
+    },
+    {
+      "name": "Onion",
+      "price": 200,
+      "quantity": 30
+    }
+  ]
+}
