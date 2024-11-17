@@ -1,0 +1,31 @@
+[
+    {
+        "vendor_name":"Ali's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":120,
+            "quantity":50
+        },
+        "name":null,
+        "price":null,
+        "quantity":null
+    },
+    {
+        "vendor_name":"Ali's Shop",
+        "items":{
+            "name":"Onion",
+            "price":200,
+            "quantity":30
+        },
+        "name":null,
+        "price":null,
+        "quantity":null
+    },
+    {
+        "vendor_name":null,
+        "items":null,
+        "name":"Pepper",
+        "price":150.0,
+        "quantity":40.0
+    }
+]
