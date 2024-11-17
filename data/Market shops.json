@@ -1,0 +1,79 @@
+[
+    {
+        "vendor_name":"Ali's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":120,
+            "quantity":50
+        },
+        "name":"Pepper",
+        "price":120,
+        "quantity":50
+    },
+    {
+        "vendor_name":"Shehu's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":100,
+            "quantity":30
+        },
+        "name":"Pepper",
+        "price":110,
+        "quantity":60
+    },
+    {
+        "vendor_name":"Alfa's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":130,
+            "quantity":20
+        },
+        "name":"Pepper",
+        "price":90,
+        "quantity":70
+    },
+    {
+        "vendor_name":"Tijjani's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":220,
+            "quantity":30
+        },
+        "name":"Pepper",
+        "price":95,
+        "quantity":47
+    },
+   {
+        "vendor_name":"Abdul's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":210,
+            "quantity":39
+        },
+        "name":"Pepper",
+        "price":76,
+        "quantity":80
+    },
+    {
+        "vendor_name":"Sadiq's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":190,
+            "quantity":70
+        },
+        "name":"Pepper",
+        "price":69,
+        "quantity":80
+    },
+    {
+        "vendor_name":"Mujaheed's Shop",
+        "items":{
+            "name":"Tomato",
+            "price":176,
+            "quantity":35
+        },
+        "name":"Pepper",
+        "price":87,
+        "quantity":34
+    }
+]
