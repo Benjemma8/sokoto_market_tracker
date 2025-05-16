@@ -1,6 +1,6 @@
 # Inventory Management System
 ### Problem Statement
-Managing inventory manually is challenging for small businesses in Sokoto, leading to inefficiencies and lost profits.
+Managing inventory manually is challenging for small businesses in Kaduna, leading to inefficiencies and lost profits.
 
 ### Solution
 This system enables shop owners to track inventory, update prices, and manage stock easily using Python and JSON.
